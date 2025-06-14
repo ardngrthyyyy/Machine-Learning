@@ -1,6 +1,7 @@
 # Machine-Learning
 Tugas Besar Machine Learning 
-Kelompok 7 :
+
+### Kelompok 7 :
 1. Mutiara Elzella Putri - 1206230004
 2. Tyavan Mirantino - 1206230037
 3. Ardini Aprilya Putri - 1206230042
